@@ -1,0 +1,28 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;	
+}
+
+
+body{
+	padding-top: 100px;
+	background: linear-gradient(90deg, rgba(218,167,102,1) 0%, rgba(238,148,44,1) 68%, rgba(119,72,18,1) 100%);
+}
+
+
+p{
+font-size: 30px;
+}
+
+
+
+
+
+
+
+
+	
+
+
